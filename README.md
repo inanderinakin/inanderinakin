@@ -1,9 +1,6 @@
 # 💫 About Me:
 I'm a passionate high school student who is interested in web and game development. I enjoy designing websites for personal use and also for small organizations. In addition, I manage a game development studio, which allows me to improve my game development and project management skills and pursue my interests. I'm also interested in finance and entrepreneurship. Along the way, I'm continuously expanding my knowledge within my areas of interest to enhance my skills and strive for excellence in those fields.
 
-enjoys designing websites for personal use and also for small organizations. 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inanderinakin) 
 
