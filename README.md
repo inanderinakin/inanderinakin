@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a passionate high school student who enjoys designing websites for small organizations and also for my projects. In addition, I manage a game development studio, which allows me to improve my coding skills and pursue my interests. I've always been interested in finance, economics, and investing. As I continue learning more about coding and finance, I am increasingly drawn to artificial intelligence. It complements my primary interests in website and game development.
+I'm a passionate high school student who is interested in web and game development. I enjoy designing websites for personal use and also for small organizations. In addition, I manage a game development studio, which allows me to improve my game development and project management skills and pursue my interests. I'm also interested in finance and entrepreneurship. Along the way, I'm continuously expanding my knowledge within my areas of interest to enhance my skills and strive for excellence in those fields.
+
+enjoys designing websites for personal use and also for small organizations. 
 
 
 ## 🌐 Socials:
